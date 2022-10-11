@@ -8,7 +8,7 @@ Olá, sou Ruan Serra Azul, apaixonado por desenvolvimento e cyber segurança ofe
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSerraAzul&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div align="center"><br>
-  <img align="center" alt="Vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="node.JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
