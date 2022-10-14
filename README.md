@@ -5,7 +5,7 @@ Olá, sou Ruan Serra Azul, apaixonado por desenvolvimento e cyber segurança ofe
 <div align="center">
   <a href="https://github.com/RuanSerraAzul">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanSerraAzul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSerraAzul&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSerraAzul&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="node.JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
