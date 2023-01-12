@@ -27,3 +27,29 @@ Olá, sou Ruan Serra Azul, apaixonado por desenvolvimento e cyber segurança ofe
     <a align="center" href="https://www.linkedin.com/in/ruan-serra-azul-10bb7b209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:ruan.4321.pablo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
+  
+  <h3> 
+  Desenvolvedor Full Stack com 4 anos de experiência em desenvolvimento web. Conhecimento em
+programação funcional e orientada a objetos. Utilizo a linguagem PHP e o framework Laravel para
+trabalhar com desenvolvimento Back End e integrar aplicações a bancos de dados relacionais
+(MySQL e SQLite), mas tenho também experiência em Python e em Node.js. Para o Front End costumo utilizar Javascript e o framework React.JS, além de
+deter conhecimento de CSS e Bootstrap. Experiência sólida com técnicas de Clean Code,
+desenvolvimento de REST API, web scrapping (Python) e testes de software (PHPUnit). Entusiasta
+de redes de computadores e hacking, desenvolvo scripts em Bash e Powershell (automação e
+segurança) e realizo auditorias de segurança em sistemas da informação com ferramentas como
+Nmap, BurpSuite, SQLMap e Nessus. Disponível para início imediato em trabalho remoto e hibrido.
+
+FrontEnd: Bootstrap / CSS3 / HTML5 / JavaScript / React.js / Desenvolvimento de Websites ( HTML / CSS /
+JavaScript / PHP)
+
+BackEnd: Node.JS / PHP / Laravel / PHPUnit/ JSON / Python / MVC / POO
+
+Base De Dados: MySQL / SQLite / PostgreSQL / MongoDB
+
+DevOps: Docker / Docker Compose / Github / Git / Segurança da Informação / Virtualização (Virtual Box/ VMWare)
+
+Others Skills: Web Scrapping /RESTful Web Services / Microsoft Office / Visual Studio Code / Fácil adaptação a novos programas e diferentes programações / Terminal Linux e Windows (Scripts .sh e .bat)/ Fácil utilização da internet como forma de pesquisa para resolver problemas / Fácil adaptação a qualquer plataforma informática/ CTFs/ Manutenção de computadores e redes /Testes unitários / Kali Linux / Postman.
+Sistemas Operacionais: Windows / Linux
+
+  
+  </h3>
