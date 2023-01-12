@@ -4,7 +4,7 @@ Olá, sou Ruan Serra Azul, apaixonado por desenvolvimento e cyber segurança ofe
 
 <div align="center">
   <a href="https://github.com/RuanSerraAzul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSerraAzul&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSerraAzul"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSerraAzul&show_icons=true&theme=synthwave&layout=compact"/>
 </div>
 <div align="center"><br>
