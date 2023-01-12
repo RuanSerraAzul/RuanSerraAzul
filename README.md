@@ -28,7 +28,7 @@ Olá, sou Ruan Serra Azul, apaixonado por desenvolvimento e cyber segurança ofe
     <a href = "mailto:ruan.4321.pablo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
   
-  <h3> 
+  <h4> 
   Desenvolvedor Full Stack com 4 anos de experiência em desenvolvimento web. Conhecimento em
 programação funcional e orientada a objetos. Utilizo a linguagem PHP e o framework Laravel para
 trabalhar com desenvolvimento Back End e integrar aplicações a bancos de dados relacionais
@@ -37,7 +37,7 @@ deter conhecimento de CSS e Bootstrap. Experiência sólida com técnicas de Cle
 desenvolvimento de REST API, web scrapping (Python) e testes de software (PHPUnit). Entusiasta
 de redes de computadores e hacking, desenvolvo scripts em Bash e Powershell (automação e
 segurança) e realizo auditorias de segurança em sistemas da informação com ferramentas como
-Nmap, BurpSuite, SQLMap e Nessus. Disponível para início imediato em trabalho remoto e hibrido.
+Nmap, BurpSuite, SQLMap e Nessus. Disponível para início imediato em trabalho remoto e hibrido. <br>
 
 FrontEnd: Bootstrap / CSS3 / HTML5 / JavaScript / React.js / Desenvolvimento de Websites ( HTML / CSS /
 JavaScript / PHP)
@@ -52,4 +52,4 @@ Others Skills: Web Scrapping /RESTful Web Services / Microsoft Office / Visual S
 Sistemas Operacionais: Windows / Linux
 
   
-  </h3>
+  </h4>
