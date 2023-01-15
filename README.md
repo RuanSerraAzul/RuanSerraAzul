@@ -39,7 +39,7 @@ de redes de computadores e hacking, desenvolvo scripts em Bash e Powershell (aut
 segurança) e realizo auditorias de segurança em sistemas da informação com ferramentas como
 Nmap, BurpSuite, SQLMap e Nessus. Disponível para início imediato em trabalho remoto e hibrido. <br>
 
-FrontEnd: Bootstrap / CSS3 / HTML5 / JavaScript / React.js / Desenvolvimento de Websites ( HTML / CSS /
+FrontEnd: Bootstrap / CSS3 / HTML5 / JavaScript / React.js/ Laravel Blade / Handlebars / Desenvolvimento de Websites ( HTML / CSS /
 JavaScript / PHP)
 
 BackEnd: Node.JS / PHP / Laravel / PHPUnit/ JSON / Python / MVC / POO
