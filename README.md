@@ -49,6 +49,7 @@ Base De Dados: MySQL / SQLite / PostgreSQL / MongoDB
 DevOps: Docker / Docker Compose / Github / Git / Segurança da Informação / Virtualização (Virtual Box/ VMWare)
 
 Others Skills: Web Scrapping /RESTful Web Services / Microsoft Office / Visual Studio Code / Fácil adaptação a novos programas e diferentes programações / Terminal Linux e Windows (Scripts .sh e .bat)/ Fácil utilização da internet como forma de pesquisa para resolver problemas / Fácil adaptação a qualquer plataforma informática/ CTFs/ Manutenção de computadores e redes /Testes unitários / Kali Linux / Postman.
+    
 Sistemas Operacionais: Windows / Linux
 
   
