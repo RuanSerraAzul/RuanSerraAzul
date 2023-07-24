@@ -1,7 +1,7 @@
 <h2 align="center">
 Olá, sou Ruan Serra Azul, apaixonado por desenvolvimento e cyber segurança ofensiva.
 </h2>
-<img src="https://visitor-badge.glitch.me/badge?page_id=RuanSerraAzul.visitor-badge" alt="Visitor badge">
+<img src="https://visitor-badge.glitch.me/badge?page_id=RuanSerraAzul.README.md" alt="Visitor badge">
 <div align="center">
   <a href="https://github.com/RuanSerraAzul">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RuanSerraAzul&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
